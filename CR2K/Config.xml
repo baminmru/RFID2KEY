@@ -1,0 +1,10 @@
+<Config 
+  ComPort="com22"
+  CodeLength="8"
+  Power="0"
+  SendEnter="true"
+  AutoStart ="false"
+  LogFile="c:\log\cr2klog.txt"
+  Test="1234567890ABCDEFabcdef"
+>
+</Config>

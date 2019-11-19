@@ -1,0 +1,8 @@
+<Config 
+  ComPort="com9"
+  CodeLength="24"
+  Power="2300"
+  SendEnter="true"
+  AutoStart ="true"
+>
+</Config>
